@@ -1,0 +1,15 @@
+D:\Visual Studio Repos\Better Discord plugin installer\bin\Release\net6.0\Better Discord plugin installer.exe
+D:\Visual Studio Repos\Better Discord plugin installer\bin\Release\net6.0\Better Discord plugin installer.deps.json
+D:\Visual Studio Repos\Better Discord plugin installer\bin\Release\net6.0\Better Discord plugin installer.runtimeconfig.json
+D:\Visual Studio Repos\Better Discord plugin installer\bin\Release\net6.0\Better Discord plugin installer.dll
+D:\Visual Studio Repos\Better Discord plugin installer\bin\Release\net6.0\Better Discord plugin installer.pdb
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\Better Discord plugin installer.csproj.AssemblyReference.cache
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\Better Discord plugin installer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\Better Discord plugin installer.AssemblyInfoInputs.cache
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\Better Discord plugin installer.AssemblyInfo.cs
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\Better Discord plugin installer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\Better Discord plugin installer.dll
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\refint\Better Discord plugin installer.dll
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\Better Discord plugin installer.pdb
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\Better Discord plugin installer.genruntimeconfig.cache
+D:\Visual Studio Repos\Better Discord plugin installer\obj\Release\net6.0\ref\Better Discord plugin installer.dll
